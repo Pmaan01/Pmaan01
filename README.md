@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Parveen Maan  
 
 💻 **Computer Systems Technology Student** | Full-Stack Developer | QA Specialist  
-📍 Vancouver, BC | 🇨🇦 Canadian Citizen  
+
 🌱 Passionate about building **practical, real-world technology solutions** and learning new tools.  
 
 ---
